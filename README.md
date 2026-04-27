@@ -141,6 +141,10 @@ Saved in `output_dir`:
 - If you see missing decoder/backend errors, install both `torchvision` and `opencv-python` (or `imageio-ffmpeg`).
 - `fine_tune.py` currently uses hardcoded config via `TrainConfig`, so editing that dataclass is the primary way to change runs.
 
+## Contact
+
+While installing or finetuning if you find any issue please contact to ```onkarsus13@gmail.com```.
+
 ## Citation
 ```bibtex
 @inproceedings{susladkar2026pyratok,
