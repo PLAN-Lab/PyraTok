@@ -1,4 +1,4 @@
-# PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation
+# $\color{orange}{\textbf{{[CVPR 2026]}}}$ PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation
 
 <div align="center">
   <a href="https://plan-lab.github.io/pyratok"><img src="https://img.shields.io/badge/Project-Website-blue?style=for-the-badge&logo=googlechrome"></a>
@@ -9,6 +9,9 @@
 
 PyraTok is a language-aligned pyramidal video tokenizer designed for both video understanding and generation.  
 This repository includes model code, inference scripts, and finetuning scripts with Accelerate.
+
+<img width="1310" height="380" alt="pyratok_overview" src="https://github.com/user-attachments/assets/198f469b-d6ee-498b-9cfa-22594fbc9c1e" />
+
 
 ## Highlights
 - Language-aligned pyramidal quantization (`LaPQ`) for semantically meaningful video tokens.
@@ -143,9 +146,11 @@ Saved in `output_dir`:
 
 ## Contact
 
-While installing or finetuning if you find any issue please contact to ```onkarsus13@gmail.com```.
+While installing or finetuning, if you find any issues, please contact to ```onkarsus13@gmail.com```.
 
 ## Citation
+:star: If you find this work useful, please cite our [paper](https://arxiv.org/abs/2601.16210)
+
 ```bibtex
 @inproceedings{susladkar2026pyratok,
   title={PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation},
