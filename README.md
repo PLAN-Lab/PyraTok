@@ -4,7 +4,7 @@
   <a href="https://plan-lab.github.io/pyratok"><img src="https://img.shields.io/badge/Project-Website-blue?style=for-the-badge&logo=googlechrome"></a>
   <a href="https://arxiv.org/abs/2601.16210"><img src="https://img.shields.io/badge/arXiv-2601.16210-b31b1b.svg?style=for-the-badge"></a>
   <a href="https://github.com/PLAN-Lab/PyraTok"><img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://huggingface.co/onkarsus13/PyraTok"><img src="https://img.shields.io/badge/Model-HuggingFace-orange?style=for-the-badge&logo=huggingface"></a>
+  <a href="https://huggingface.co/PLAN-Lab/PyraTok"><img src="https://img.shields.io/badge/Model-HuggingFace-orange?style=for-the-badge&logo=huggingface"></a>
 </div>
 
 PyraTok is a language-aligned pyramidal video tokenizer designed for both video understanding and generation.  
